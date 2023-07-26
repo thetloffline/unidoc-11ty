@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
+  - text: Find a doctor
+    url: "/"
+  - text: List your practice
     url: "#"
-  - text: Menu Two
+  - text: Provide feedback
     url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: About
     url: "/blog"
